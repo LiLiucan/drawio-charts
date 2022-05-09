@@ -1,59 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T05:22:36.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Wqu82yllcHmSH_-jmda2" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T05:24:03.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fOgI1NifHmYPMZo0B5QQ" version="16.6.6" type="github">
   <diagram id="ow-9JrlrLOMCZCnoB1mf" name="Page-1">
     <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a8hGgwO7_RRCYhUVFxKA-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="570" width="420" height="150" as="geometry" />
+          <mxGeometry x="210" y="230" width="420" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a8hGgwO7_RRCYhUVFxKA-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="890" width="430" height="190" as="geometry" />
+          <mxGeometry x="200" y="490" width="430" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="a8hGgwO7_RRCYhUVFxKA-3" value="Front End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="620" width="60" height="30" as="geometry" />
+        <mxCell id="a8hGgwO7_RRCYhUVFxKA-3" value="前端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a8hGgwO7_RRCYhUVFxKA-4" value="Back End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="960" width="60" height="30" as="geometry" />
+        <mxCell id="a8hGgwO7_RRCYhUVFxKA-4" value="服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a8hGgwO7_RRCYhUVFxKA-5" value="Buisness Logic Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="910" width="350" height="60" as="geometry" />
+        <mxCell id="a8hGgwO7_RRCYhUVFxKA-5" value="业务逻辑层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="350" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a8hGgwO7_RRCYhUVFxKA-6" value="Base Logic Layer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="990" width="350" height="60" as="geometry" />
+        <mxCell id="a8hGgwO7_RRCYhUVFxKA-6" value="基础逻辑层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="590" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a8hGgwO7_RRCYhUVFxKA-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="439" y="870" as="sourcePoint" />
-            <mxPoint x="439" y="730" as="targetPoint" />
+            <mxPoint x="419" y="470" as="sourcePoint" />
+            <mxPoint x="419" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a8hGgwO7_RRCYhUVFxKA-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="640" as="sourcePoint" />
-            <mxPoint x="720" y="640" as="targetPoint" />
+            <mxPoint x="630" y="280" as="sourcePoint" />
+            <mxPoint x="690" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a8hGgwO7_RRCYhUVFxKA-12" value="前端负责定义、负责实现" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="630" width="60" height="30" as="geometry" />
+          <mxGeometry x="690" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a8hGgwO7_RRCYhUVFxKA-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="940" as="sourcePoint" />
-            <mxPoint x="680" y="940" as="targetPoint" />
+            <mxPoint x="600" y="540" as="sourcePoint" />
+            <mxPoint x="660" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a8hGgwO7_RRCYhUVFxKA-14" value="前端负责定义、服务端负责实现" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="925" width="90" height="30" as="geometry" />
+          <mxGeometry x="660" y="525" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a8hGgwO7_RRCYhUVFxKA-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="1020" as="sourcePoint" />
-            <mxPoint x="680" y="1020" as="targetPoint" />
+            <mxPoint x="600" y="620" as="sourcePoint" />
+            <mxPoint x="660" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a8hGgwO7_RRCYhUVFxKA-16" value="服务端负责定义、负责实现" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1005" width="80" height="30" as="geometry" />
+          <mxGeometry x="660" y="605" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
